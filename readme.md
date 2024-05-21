@@ -1,4 +1,4 @@
-<img src="img/new.png" width="450" height="100">
+<img src="img/new.png" width="450" height="500">
 
 ## Deskripsi singkat 
 Aplikasi penyewaan lapangan futsal adalah platform yang memungkinkan para pengguna untuk mencari lapangan futsal yang tersedia, memilih waktu yang sesuai, melakukan pemesanan secara online, dan bahkan membayar langsung melalui aplikasi. Dengan fitur-fitur seperti ini, pengguna dapat menghemat waktu dan tenaga yang sebelumnya dibutuhkan untuk mencari lapangan secara manual atau menghubungi operator lapangan
